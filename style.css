@@ -1,0 +1,23 @@
+html {
+    font-size: 10px
+}
+
+body * {
+    margin: 0;
+    padding: 0;
+    font-family: "Aleo", serif;
+    padding: 0.6rem;
+}
+
+header {
+    height: 5rem;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 1rem 1.5rem;
+}
+
+.hero .discover-wrap {
+    
+}

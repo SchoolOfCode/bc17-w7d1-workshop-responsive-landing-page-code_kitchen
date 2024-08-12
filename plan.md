@@ -11,6 +11,13 @@ Create styles.css file ✅
 Create the html structure ✅
 Add the classes within the elements ✅
 Setting up google font - https://fonts.google.com/specimen/Aleo ✅
+Import images within html ✅
+
+
+
+
+
+
 Update README.md file as working throught the process
     - Incorporate images
 
