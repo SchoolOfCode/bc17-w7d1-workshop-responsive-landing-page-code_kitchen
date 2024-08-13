@@ -5,8 +5,12 @@ html {
 body * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2rem;
     font-family: "Aleo", serif;
-    padding: 0.6rem;
 }
 
 header {
@@ -19,14 +23,20 @@ h1 {
 }
 
 .hero .discover-wrap {
-    background-color: orange;
+    background-color:  #f1911b;;
     width: 100%;
+    padding: 1rem;
+}
 
+.hero img {
+    width: 100%;
 }
 
 .hero .discover {
-    font-size: 3.1rem;
-    font-weight: 800;
+    font-size: 3rem;
+    font-weight: 600;
+    word-spacing: rem;
+    letter-spacing: ;
 }
 
 .hero .book-consultation {
@@ -35,7 +45,7 @@ h1 {
 }
 
 .hero  .phone {
-    color: white;
+    color: #fff2e4;
     font-size: 1.6rem;
     font-weight: 600;
     word-spacing: -0.2rem;
