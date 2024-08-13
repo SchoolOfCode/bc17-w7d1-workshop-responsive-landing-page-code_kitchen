@@ -19,5 +19,27 @@ h1 {
 }
 
 .hero .discover-wrap {
-    
+    background-color: orange;
+    width: 100%;
+
 }
+
+.hero .discover {
+    font-size: 3.1rem;
+    font-weight: 800;
+}
+
+.hero .book-consultation {
+    font-size: 1.6rem;
+    font-weight: 800;
+}
+
+.hero  .phone {
+    color: white;
+    font-size: 1.6rem;
+    font-weight: 600;
+    word-spacing: -0.2rem;
+}
+
+
+
